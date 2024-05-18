@@ -1,5 +1,5 @@
 # Boltchain ⚡
-*a peer to peer energy exchange focused on solar energie.*
+*a peer to peer energy exchange focused on solar energy.*
 
 By using a *BoltBox* one can sell/buy solar energy depending on ones current needs.
 The energy is provided by solar energy producers that also participate in the network. 
